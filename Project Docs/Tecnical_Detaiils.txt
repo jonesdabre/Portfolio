@@ -1,0 +1,9 @@
+Technical Details:
+
+Environment: conda create --name PBL_PROJECT python=3.14.0
+			 conda activate PBL_PROJECT
+			 conda install <lib_name>
+
+Data source: https://zenodo.org/records/16459132			 
+
+	
